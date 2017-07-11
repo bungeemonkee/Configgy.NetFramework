@@ -33,8 +33,8 @@
     <DocumentationFile>bin\Release\Configgy.NetFramework.xml</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Configgy, Version=3.0.2.1, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Configgy.3.0.2-rc1\lib\netstandard1.5\Configgy.dll</HintPath>
+    <Reference Include="Configgy, Version=3.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Configgy.3.0.3\lib\netstandard1.5\Configgy.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Win32.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Win32.Primitives.4.3.0\lib\net46\Microsoft.Win32.Primitives.dll</HintPath>
