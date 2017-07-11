@@ -37,6 +37,6 @@ using System.Runtime.InteropServices;
 // * 1.0.1.1 => 1.0.1-beta01
 // * 1.0.2.1 => 1.0.2-rc01
 // * 1.0.3.0 => 1.0.3
-[assembly: AssemblyVersion("1.0.2.1")]
-[assembly: AssemblyFileVersion("1.0.2.1")]
-[assembly: AssemblyInformationalVersion("1.0.2-rc01")]
+[assembly: AssemblyVersion("1.0.3.0")]
+[assembly: AssemblyFileVersion("1.0.3.0")]
+[assembly: AssemblyInformationalVersion("1.0.3")]
